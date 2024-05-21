@@ -1,1 +1,2 @@
 # fcc_technical_documentation_page_project
+Basic Javascript documentation project
